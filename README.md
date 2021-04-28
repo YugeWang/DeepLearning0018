@@ -16,4 +16,5 @@ print(training)
 
 print(testing)
 
-## 3. Document for running the model locally on the terminal. 
+## 3. Document for running the model locally on the terminal.
+## 4. Report of the whole project. 
