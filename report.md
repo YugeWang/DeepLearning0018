@@ -2,6 +2,8 @@
 # Embedded Audio Classifier, An Application of Deep Learning of Light Control. 
 Yuge Wang
 
+Edge Impulse Link for the Project: https://studio.edgeimpulse.com/public/21959/latest
+
 ## Application introduction
 Inspired by a series of ‘smart home’ products in the current market, including voice control speakers, televisions and lights, as well as some voice-control user, interface like the Apple HomeKit which allows user to control all their smart devices at one time, ensuring a unified home environment.  
 
