@@ -1,4 +1,4 @@
-### Here are two practicals I have done and recorded videos.
+## Here are two practicals I have done and recorded videos.
 
 1. The first one is the yes_no classifcation using arduino BLE 33 NANo board on Arduino. 
 
