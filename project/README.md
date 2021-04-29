@@ -1,4 +1,6 @@
-Here is a description of files uploaded. My project mainly used Edge Impulse, you can view it via https://studio.edgeimpulse.com/public/21959/latest. 
+
+# Descroption
+My project mainly used Edge Impulse, you can view it via https://studio.edgeimpulse.com/public/21959/latest. 
 
 ## 1.  Report of the whole project. 
 This report contains more detailed description of the project. Including application flowchart, data description, and modifications made.
