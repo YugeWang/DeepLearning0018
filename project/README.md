@@ -4,6 +4,8 @@ My project mainly used Edge Impulse, you can view it via https://studio.edgeimpu
 
 Here are few descriptions of files uploaded.
 
+Instructions of connection of Arduino Nano 33 BLE Sense to the project can be found at https://docs.edgeimpulse.com/docs/arduino-nano-33-ble-sense. 
+
 
 ## 1. Traning and testing dataset used in this project. 
 Here is the Python code to view audio datasets:
