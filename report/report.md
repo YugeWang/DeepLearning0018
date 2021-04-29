@@ -1,4 +1,3 @@
-
 # Embedded Audio Classifier, An Application of Deep Learning of Light Control. 
 Yuge Wang
 
