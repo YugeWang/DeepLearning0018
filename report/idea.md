@@ -1,5 +1,5 @@
 ### Title: 
-Audio classification 
+Audio classification using Edge Impulse
 
 
 
