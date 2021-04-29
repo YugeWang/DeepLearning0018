@@ -2,6 +2,7 @@
 ### Yuge Wang
 
 Edge Impulse Link for the Project: https://studio.edgeimpulse.com/public/21959/latest
+
 And here is the githublink for more information about this project: https://github.com/YugeWang/DeepLearning_final
 
 ## Application introduction
