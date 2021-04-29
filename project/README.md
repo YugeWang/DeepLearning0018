@@ -1,5 +1,5 @@
 
-# Descroption
+# Description
 My project mainly used Edge Impulse, you can view it via https://studio.edgeimpulse.com/public/21959/latest. 
 
 ## 1.  Report of the whole project. 
